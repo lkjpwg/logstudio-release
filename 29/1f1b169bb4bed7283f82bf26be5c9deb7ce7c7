@@ -1,0 +1,14 @@
+release.json
+  h_59d6b0873058c9 2-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "291f1b169bb4bed7283f82bf26be5c9deb7ce7c7",
+  "prompts": {},
+  "humans": {
+    "h_59d6b0873058c9": {
+      "author": "zhaol16 <zhaol16@xiaopeng.com>"
+    }
+  }
+}
